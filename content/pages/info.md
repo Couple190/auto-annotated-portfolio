@@ -220,7 +220,7 @@ sections:
       - type: Label
         label: 'SQL: MySQL & PostgreSQL'
       - type: Label
-        label: R
+        label: 'R: Tidyr, Dplyr'
       - type: Label
         label: Databases
       - type: Label
