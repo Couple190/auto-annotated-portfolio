@@ -5,8 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  This project aims at analyzing the gender distribution text generated from
-  ChatGPT-3 by classifying the names used using the spaCy libriary in Python.
+  This project analyses the gender distribution text generated from ChatGPT-3 by
+  classifying the names used using the spaCy library in Python.
 featuredImage:
   type: ImageBlock
   url: /images/gender-classification.png
