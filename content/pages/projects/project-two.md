@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Price Prediction on Yellow Taxis in NYC
 colors: colors-a
-date: '2022-12-20'
+date: '2022-12-23'
 client: project
 description: >-
   I developed a predictive model for NYC taxi tips using advanced data
