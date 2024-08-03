@@ -133,7 +133,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/Couple190'
         styles:
           self:
             textAlign: left
