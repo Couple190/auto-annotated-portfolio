@@ -146,6 +146,7 @@ sections:
         styles:
           self:
             textAlign: left
+        subtitle: LinkedIn
       - type: FeaturedItem
         actions:
           - type: Link
