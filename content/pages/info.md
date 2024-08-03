@@ -222,7 +222,7 @@ sections:
       - type: Label
         label: R
       - type: Label
-        label: Pancakes
+        label: Databases
       - type: Label
         label: Microsoft Office
       - type: Label
