@@ -213,7 +213,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Tools & Skills:'
     items:
       - type: Label
         label: 'Python: Pandas, NumPy, sklearn, keras'
