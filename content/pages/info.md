@@ -218,7 +218,7 @@ sections:
       - type: Label
         label: 'Python: Pandas, NumPy, sklearn, keras'
       - type: Label
-        label: SQL
+        label: 'SQL: MySQL & possgress'
       - type: Label
         label: R
       - type: Label
