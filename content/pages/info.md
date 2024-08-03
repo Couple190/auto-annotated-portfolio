@@ -228,7 +228,7 @@ sections:
       - type: Label
         label: 'Data Visualization: Plotly, matplotlib, seaborn, Ggplot'
       - type: Label
-        label: Swift
+        label: Data Management & Analysis
   - type: DividerSection
     styles:
       self:
