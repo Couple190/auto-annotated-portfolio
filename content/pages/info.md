@@ -220,13 +220,13 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Next.js
       - type: Label
         label: Netlify
       - type: Label
         label: Pancakes
+      - type: Label
+        label: Microsoft Office
       - type: Label
         label: C++
       - type: Label
