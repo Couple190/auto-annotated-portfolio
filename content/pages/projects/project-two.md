@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/New_York_City_taxi_cabs.jpeg
   altText: Project image
 ---
 
