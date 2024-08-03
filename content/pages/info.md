@@ -13,11 +13,20 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey there! I'm Modou Lamin Manjang, a data wizard with a Master's in
+      Data Science from Constructor University and a solid math background. I
+      turn complex data into clear, actionable insights as a Data Scientist,
+      Data Analyst, and/or Data Manager.
+
+
+      Outside the world of data, You could catch me at the gym. Dive into my
+      projects, and let's connect to see how we can make data magic together!
+
+
+
+
+
     media:
       type: ImageBlock
       url: /images/picc.jpg
