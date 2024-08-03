@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-12-20'
 client: project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I developed a predictive model for NYC taxi tips using advanced data
+  analytics, achieving 86.7% accuracy with a Gradient Boosting Regressor. This
+  project provides valuable insights into tipping behavior in New York City.
 featuredImage:
   type: ImageBlock
   url: /images/New_York_City_taxi_cabs.jpeg
