@@ -220,7 +220,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Next.js
+        label: R
       - type: Label
         label: Netlify
       - type: Label
