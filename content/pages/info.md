@@ -226,7 +226,7 @@ sections:
       - type: Label
         label: Microsoft package
       - type: Label
-        label: C++
+        label: 'Data Visualization: Plotly, matplotlib, seaborn, Ggplot'
       - type: Label
         label: Swift
   - type: DividerSection
