@@ -5,9 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This project aims at analyzing the gender distribution text generated from
+  ChatGPT-3 by classifying the names used.
 featuredImage:
   type: ImageBlock
   url: /images/gender-classification.png
