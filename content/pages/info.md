@@ -216,7 +216,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Python
+        label: 'Python: Pandas, NumPy, sklearn, keras'
       - type: Label
         label: SQL
       - type: Label
