@@ -17,11 +17,7 @@ sections:
       I am Modou Lamin Manjang, a passionate Data Scientist, Data Analyst, and
       Data Manager with a strong background in mathematics and a Master’s degree
       in Data Science from Constructor University
-    subtitle: >-
-      I am deeply committed to leveraging data to solve real-world problems and
-      drive innovation. Whether it's developing machine learning models,
-      designing data visualizations, or managing data workflows, I thrive on
-      turning data into valuable insights.
+    subtitle: "I am deeply committed to leveraging data to solve real-world problems and drive innovation. Whether it's developing machine learning models, designing data visualizations, or managing data workflows, I thrive on turning data into valuable insights.\_My goal is to bridge the gap between data and decision-making, helping organizations achieve their strategic objectives."
     styles:
       self:
         height: auto
