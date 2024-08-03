@@ -222,8 +222,6 @@ sections:
       - type: Label
         label: R
       - type: Label
-        label: Netlify
-      - type: Label
         label: Pancakes
       - type: Label
         label: Microsoft Office
