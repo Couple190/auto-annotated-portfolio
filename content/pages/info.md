@@ -138,6 +138,7 @@ sections:
           self:
             textAlign: left
         title: ''
+        subtitle: Github
       - type: FeaturedItem
         actions:
           - type: Link
