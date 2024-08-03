@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Modou Lamin
+title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
