@@ -49,6 +49,17 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      I am deeply committed to leveraging data to solve real-world problems and
+      drive innovation. Whether it's developing machine learning models,
+      designing data visualizations, or managing data workflows, I thrive on
+      turning data into valuable insights. My goal is to bridge the gap between
+      data and decision-making, helping organizations achieve their strategic
+      objectives. I invite you to explore my projects and connect with me to
+      discuss how we can collaborate on data-driven initiatives.
+
+
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
