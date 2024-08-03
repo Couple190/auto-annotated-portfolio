@@ -18,9 +18,10 @@ sections:
       Data Manager with a strong background in mathematics and a Master’s degree
       in Data Science from Constructor University
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am deeply committed to leveraging data to solve real-world problems and
+      drive innovation. Whether it's developing machine learning models,
+      designing data visualizations, or managing data workflows, I thrive on
+      turning data into valuable insights.
     styles:
       self:
         height: auto
