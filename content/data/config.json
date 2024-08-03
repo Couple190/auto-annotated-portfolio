@@ -85,7 +85,7 @@
             "address": "Fahrenheitstrasse 19, Bremen 28359",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Powered by mmanjang\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
