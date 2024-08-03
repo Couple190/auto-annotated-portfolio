@@ -224,7 +224,7 @@ sections:
       - type: Label
         label: Databases
       - type: Label
-        label: Microsoft Office
+        label: Microsoft package
       - type: Label
         label: C++
       - type: Label
