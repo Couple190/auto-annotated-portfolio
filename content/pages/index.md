@@ -14,12 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am Modou Lamin Manjang, a passionate Data Scientist, Data Analyst, and
+      Data Manager with a strong background in mathematics and a Master’s degree
+      in Data Science from Constructor University
+    subtitle: "I am deeply committed to leveraging data to solve real-world problems and drive innovation. Whether it's developing machine learning models, designing data visualizations, or managing data workflows, I thrive on turning data into valuable insights.\_My goal is to bridge the gap between data and decision-making, helping organizations achieve their strategic objectives. I invite you to explore my projects and connect with me to discuss how we can collaborate on data-driven initiatives."
     styles:
       self:
         height: auto
@@ -47,6 +45,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -96,7 +95,6 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
     showDate: true
