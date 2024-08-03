@@ -137,7 +137,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Github
+        title: ''
       - type: FeaturedItem
         actions:
           - type: Link
