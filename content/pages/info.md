@@ -229,6 +229,9 @@ sections:
         label: 'Data Visualization: Plotly, matplotlib, seaborn, Ggplot'
       - type: Label
         label: Data Management & Analysis
+      - type: Label
+        label: Mathematics and statistics
+        url: ''
   - type: DividerSection
     styles:
       self:
