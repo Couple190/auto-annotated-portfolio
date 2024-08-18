@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       I am Modou Lamin Manjang, a passionate Data Scientist, Data Analyst, and
       Data Manager with a strong background in mathematics and a Master’s degree
