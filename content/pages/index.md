@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/white-canvas-background_1053-239.avif
+  url: /images/logo1.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
