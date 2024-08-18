@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     title: >-
       I am Modou Lamin Manjang, a passionate Data Scientist, Data Analyst, and
