@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-c
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/white-canvas-background_1053-239.avif
